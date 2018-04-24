@@ -1,5 +1,6 @@
 # KV
 
+Distributes key value store implemented in Elixir on top of OTP
 Example application following the tutorial from
 [elixir-lang.org](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
